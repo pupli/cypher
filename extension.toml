@@ -1,0 +1,11 @@
+id = "cypher"
+name = "Cypher"
+version = "0.0.1"
+schema_version = 1
+authors = ["Hari Bantwal <hpai.bantwal@gmail.com>"]
+description = "Zed Extension for cypher"
+repository = "https://github.com/pupli/cypher"
+
+[grammars.cypher]
+repository = "https://github.com/pupli/tree-sitter-cypher"
+commit = "b93ed964403d6fca30277835075a84731dcac99f"
