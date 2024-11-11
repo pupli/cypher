@@ -34,7 +34,7 @@ Inside the language/cypher directory, create a file named highlights.scm and def
 Go to Zed and install the extension as a developer extension:
 
 1. Donwload the extension (https://github.com/pupli/cypher/archive/refs/tags/latest.zip) and extract  
-2.  Open **Zed**.
+2. Open **Zed**.
 3. Go to **Extensions** in the menu.
 4. Click **Install Dev Extension** and point to extracted folder
 
@@ -44,4 +44,16 @@ The extension should appear in the Extensions list (as shown in the image above)
 
 1. Create a new file with a `.cypher` extension in Zed.
 2. Add Cypher syntax, such as examples from the [cypher.txt test cases](https://github.com/opencypher/openCypher/blob/master/tools/grammar/src/test/resources/cypher.txt) in the openCypher project, to verify that syntax highlighting works as expected.
+
+## References and Acknowledgments
+
+Many thanks to the following resources for guidance and support in creating this extension:
+
+1. [Installing Extensions in Zed](https://zed.dev/docs/extensions/installing-extensions) - Guide to setting up and installing extensions in Zed.
+2. [Zed Decoded: Extensions Blog Post](https://zed.dev/blog/zed-decoded-extensions) - Insights on how Zed handles extensions and the possibilities they open.
+3. [openCypher GitHub Repository](https://github.com/opencypher) - Provides tools and libraries for working with the Cypher query language.
+4. [openCypher Resources](https://opencypher.org/resources/) - Reference materials on Cypher syntax, language style, and best practices.
+5. [Cypher Test Cases](https://github.com/opencypher/openCypher/blob/master/tools/grammar/src/test/resources/cypher.txt) - Useful Cypher syntax examples for testing and validation.
+6. [Extension Structure Inspiration](https://github.com/taekwombo) - Thank you to the repository for guidance on structuring the extension files and configurations.
+
 
