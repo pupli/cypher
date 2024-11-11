@@ -13,7 +13,7 @@ Refer to the official Zed documentation for language extensions at [https://zed.
    mkdir cypher
    cd cypher
   ```
-
+  
 2. Create the extension.toml File
 
 Inside the cypher directory, create a file named extension.toml with the basic info and following content:
