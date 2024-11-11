@@ -1,6 +1,6 @@
 name = "Cypher"
 grammar = "cypher"
-path_suffixes = ["cypher"]
+path_suffixes = ["cypher", "cql", "cyp"]
 autoclose_before = ",=)}]"
 line_comments = ["-- "]
 block_comment = ["{- ", " -}"]
