@@ -33,9 +33,10 @@ Inside the language/cypher directory, create a file named highlights.scm and def
 
 Go to Zed and install the extension as a developer extension:
 
-1. Open **Zed**.
-2. Go to **Extensions** in the menu.
-3. Click **Install Dev Extension**.
+1. Donwload the extension (https://github.com/pupli/cypher/archive/refs/tags/latest.zip) and extract  
+2.  Open **Zed**.
+3. Go to **Extensions** in the menu.
+4. Click **Install Dev Extension** and point to extracted folder
 
 The extension should appear in the Extensions list (as shown in the image above) once loaded successfully.
 
