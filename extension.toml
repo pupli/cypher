@@ -8,4 +8,4 @@ repository = "https://github.com/pupli/cypher"
 
 [grammars.cypher]
 repository = "https://github.com/pupli/tree-sitter-cypher"
-commit = "a50f6fa0d4111c998a7faadb29d94246147c8318"
+commit = "775717a2de6ca76a5a75e8076b411dbc1ae4c281"
