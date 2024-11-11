@@ -6,14 +6,15 @@ Refer to the official Zed documentation for language extensions at [https://zed.
 
 ## Steps to Set Up the Zed Extension
 
-### Step 1: Create the Extension
+## Step 1: Create the Extension
 
 1. Create a new directory for your Zed extension (e.g., `cypher`):
+
    ```bash
-   mkdir cypher
-   cd cypher
+mkdir cypher
+cd cypher
   ```
-  
+
 2. Create the extension.toml File
 
 Inside the cypher directory, create a file named extension.toml with the basic info and following content:
